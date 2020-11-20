@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**casdidier/casdidier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on :
+    - React / Redux, Hooks, Context 
+    - Node.js / MongoDB / Styled-Components 
+    - Jest / React Testing Lib / Cypress
+- 🌱 I’m currently learning
+    - NextJs / GraphQL
+- 👯 I’m looking to collaborate on React 
+- 🤔 I’m looking for help with NextJs
+- 💬 Ask me about React
+- 📫 How to reach me: on Reactiflux discord channel
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I heard Trump still thinks he won
+
+[codewars profile](https://www.codewars.com/users/ddcas75)
+
