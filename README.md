@@ -14,4 +14,4 @@
 - ⚡ Fun fact: I heard Trump still thinks he won
 
 [codewars profile](https://www.codewars.com/users/ddcas75)
-
+[![stats](https://github-readme-stats.vercel.app/api?username=casdidier)](https://github.com/casdidier/github-readme-stats)
