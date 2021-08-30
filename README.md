@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on :
-    - React / Redux, Hooks, Context 
+    - React , Hooks, Context
     - Node.js / MongoDB / Styled-Components 
-    - Jest / React Testing Lib / Cypress
+    - Jest / React Testing Lib 
 - 🌱 I’m currently learning
     - NextJs / GraphQL
 - 👯 I’m looking to collaborate on React 
 - 🤔 I’m looking for help with NextJs
+
 - 💬 Ask me about React
 - 📫 How to reach me: on Reactiflux discord channel
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I heard Trump still thinks he won
 
 [codewars profile](https://www.codewars.com/users/ddcas75)
