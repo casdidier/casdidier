@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on :
-    - React , Hooks, Context
+    - React, Hooks, Context
     - Node.js / MongoDB / Styled-Components 
-    - Jest / React Testing Lib 
+    - Jest
 - 🌱 I’m currently learning
-    - NextJs / GraphQL
+    - NextJs / GraphQL / Typescript
 - 👯 I’m looking to collaborate on React 
 - 🤔 I’m looking for help with NextJs
 
