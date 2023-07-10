@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on :
-    - React, Hooks, Context
-    - Node.js / MongoDB / Styled-Components 
+    - Vue, NestJs 
    
 - 🌱 I’m currently learning
-    - NextJs  / Typescript / Jest
+    - Flutter
 - 👯 I’m looking to collaborate on React 
 - 🤔 I’m looking for help with NextJs
 
